@@ -68,4 +68,4 @@ alignText = (elem, alignType) => {
   }
   elem.classList.toggle('active');
 }
-  console.log('hi')
+
